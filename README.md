@@ -24,7 +24,6 @@
 ## 🚀 Features
 - ⚡ **Real-time facial recognition** with OpenCV  
 - 🖥 **GUI support** (modern & user-friendly)  
-- 🌈 **Neon styled design** for a cyberpunk vibe  
 - 🔥 Fully open-source under **MIT License**  
 
 ---
