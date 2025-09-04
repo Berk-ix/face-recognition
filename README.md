@@ -1,28 +1,39 @@
+<h1 align="center">⚡ Neon Face Recognition ⚡</h1>
 
-> ✨ **Short Description**: A modern and simple facial recognition project built with Python and OpenCV.  
-> 🎯 **Goal**: To provide developers an easy way to implement face detection and recognition systems.  
-
----
-
-## 📸 Demo
 <p align="center">
   <img src="https://files.catbox.moe/45eo9i.png" alt="demo" width="600">
 </p>
 
 ---
 
-## 🔥 Features
-- ✅ Real-time face recognition (OpenCV + Deep Learning)  
-- ✅ Easy setup & usage  
-- ✅ Fully open-source with MIT License  
-- ✅ User-friendly interface (GUI supported)  
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-ff007f?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Python-3.9+-00ffff?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/OpenCV-Deep%20Learning-purple?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-39ff14?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
-## ⚡ Installation
-Follow the steps below to set up the project:
+## 🌌 About the Project
+✨ **Neon Face Recognition** is a stylish and modern facial recognition system designed with **OpenCV + Deep Learning**.  
+🎯 Goal: To make face detection & recognition accessible, futuristic-looking, and easy for everyone.  
 
-### 1. Clone the Repository
+---
+
+## 🚀 Features
+- ⚡ **Real-time facial recognition** with OpenCV  
+- 🖥 **GUI support** (modern & user-friendly)  
+- 🌈 **Neon styled design** for a cyberpunk vibe  
+- 🔥 Fully open-source under **MIT License**  
+
+---
+
+## 🔧 Installation
+Clone and set up the project in just a few commands:
+
 ```bash
 git clone https://github.com/yourusername/yourproject.git
 cd yourproject
+pip install -r requirements.txt
+python main.py
