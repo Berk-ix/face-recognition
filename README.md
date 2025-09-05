@@ -16,7 +16,7 @@
 ---
 
 ## 🌌 About the Project
-✨ **Neon Face Recognition** is a stylish and modern facial recognition system designed with **OpenCV + Deep Learning**.  
+✨ ** Face Recognition** is a stylish and modern facial recognition system designed with **OpenCV + Deep Learning**.  
 🎯 Goal: To make face detection & recognition accessible, futuristic-looking, and easy for everyone.  
 
 ---
