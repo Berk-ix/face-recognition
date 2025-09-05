@@ -1,5 +1,7 @@
 <h1 align="center">Face Recognition</h1>
+# 👋 Hi, I'm Berk  
 
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=true&vCenter=true&lines=Junior+Developer;Python+%7C+HTML+%7C+CSS;Rust+Enthusiast;Always+Learning" />
 <p align="center">
   <img src="https://files.catbox.moe/45eo9i.png" alt="demo" width="600">
 </p>
