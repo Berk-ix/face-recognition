@@ -32,7 +32,7 @@
 Clone and set up the project in just a few commands:
 
 ```bash
-git clone https://github.com/Berk-ix/Face Recognition.git
+git clone https://github.com/Berk-ix/Face-Recognition.git
 cd yourproject
 pip install -r requirements.txt
 python main.py
