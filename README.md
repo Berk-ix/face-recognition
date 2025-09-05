@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Neon Face Recognition ⚡</h1>
+<h1 align="center">Face Recognition</h1>
 
 <p align="center">
   <img src="https://files.catbox.moe/45eo9i.png" alt="demo" width="600">
