@@ -1,5 +1,5 @@
 <h1 align="center">Face Recognition</h1>
-
+![Animated Banner](https://linktoyourgif.gif)
 
 <p align="center">
   <img src="https://files.catbox.moe/45eo9i.png" alt="demo" width="600">
